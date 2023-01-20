@@ -136,3 +136,4 @@ wandb/
 sub/
 kfold_sub/
 DeepSpeed/
+shell_scripts/train.sh
